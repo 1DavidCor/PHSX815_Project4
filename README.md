@@ -1,7 +1,7 @@
 # PHSX815_Project4
 PHSX815_Project4_FINAL.pdf: This is the writeup for Project #4. 
 
-PHSX815_Project4.py: This script recreates the C/O and Mg/Si distributions plots found in Brewer & Fischer's 2016 publication. The process is outlined in section 4 "Code" of teh writeup.
+PHSX815_Project4.py: This script recreates the C/O and Mg/Si distributions plots found in Brewer & Fischer's 2016 publication. The process is outlined in section 4 "Code" of the writeup.
 
 4 .png files: These are the distribution plots produced by the .py script above. 
 
